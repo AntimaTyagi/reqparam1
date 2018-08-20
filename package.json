@@ -1,0 +1,14 @@
+{
+  "name": "reqgetmethodparam",
+  "version": "1.0.0",
+  "description": "demo of request parameter",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
